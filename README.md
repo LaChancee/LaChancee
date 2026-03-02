@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developper
 --------------
 
-I've been coding for 5 years, and I love to create amazing web experience with mainly framework JS
+I've been coding for 8 years, and I love to create amazing web experience with mainly framework JS
 
 *   🌍  I'm based in France
 *   🖥️  See my portfolio at [Mon portoflio](http://miharisoa.fr)
