@@ -8,7 +8,7 @@ Voici une version plus structurée, plus crédible et orientée impact de ton pr
 
 I build and scale web products with a strong focus on business impact, performance and clean architecture.
 
-With 8+ years of experience, I specialize in JavaScript ecosystems and modern fullstack development. I’m not only interested in shipping features — I care about acquisition, retention, monetization and long-term scalability.
+With 6+ years of experience, I specialize in JavaScript ecosystems and modern fullstack development. I’m not only interested in shipping features — I care about acquisition, retention, monetization and long-term scalability.
 
 ---
 
