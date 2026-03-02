@@ -26,12 +26,11 @@ Tetikasa is a SaaS product designed to structure and centralize client projects 
 * Business model design and pricing logic
 * Client workspace system design
 * Dashboard & structured navigation (vertical layout desktop UX)
-* Firebase backend implementation
 * Performance optimization and scalability thinking
 * Forecast financial modeling
 
 **Stack:**
-Next.js, Firebase, Node.js, modern JS ecosystem
+Next.js, PostgreSQL, Node.js, modern JS ecosystem
 
 This project reflects how I think: product-first, business-aware, execution-driven.
 
